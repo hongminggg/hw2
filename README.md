@@ -1,6 +1,7 @@
 1. 執行server kkk.py by following command line
 
 python kkk.py
+
 2.先建立一個 mbed-os-example-socket
 
 3.把 main.cpp 放入mbed studio ,要把BSP sensor import進來，像是
